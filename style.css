@@ -10,7 +10,7 @@
       margin:0;
       padding:0;
       text-align:center;
-      background-color: #FFC4D6;
+      background-color: #ff499e;
   }
   .navbar li{
       display:inline;
@@ -88,24 +88,24 @@
   
   /* Facebook */
   .fa-facebook {
-    color: #A480CF;
+    color: white;
   }
   
   .fa-twitter {
-    color: #A480CF;
+    color: white;
   }
   
   .fa-linkedin {
-    color: #A480CF;
+    color: white;
   }
   
   .fa-instagram {
-    color: #A480CF;
+    color: white;
   }
   
   footer {
     text-align: center;
     padding: 3px;
-    background-color: #FFC4D6;
-    color: #A480CF;
+    background-color: #ff499e;
+    color: white;
   }
