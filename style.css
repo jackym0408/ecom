@@ -7,6 +7,10 @@
   body{
     font-family: 'Montserrat', sans-serif;
   }
+
+  .logo img{
+    padding:0 35px;
+  }
   
   .navbar{
       border-width:1px 0;
