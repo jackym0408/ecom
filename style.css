@@ -34,12 +34,24 @@
     object-fit: contain;
   }
 
+  
   .header_container{
+    background-image:url(images/heroFinal.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
+    max-width: 100%;
+    overflow: hidden;
+
+
+    /* position: relative;
     height: 80vh;
     overflow: hidden;
     background: url(images/heroFinal.png) no-repeat center;
     background-size: cover;
+    max-width: 100%; */
   }
 
   h1{
@@ -57,8 +69,8 @@
       align-items: center;
       padding: 0 2em 0 2em;
       margin-bottom: 2em;
-      /* max-width: 100%;
-      width: 100%; */
+      max-width: 100%;
+      /*width: 100%; */
   }
 
 .middleimg{
@@ -66,10 +78,13 @@
 }
 
   .featured img{
-    width: 35%;
+    width: 25%;
+    max-width: 20%;
     height: auto;
-    margin: 0 2em 0 2em;
+    padding: 0 1em 0 1em ;
+    margin: 0 1em 0 1em;
   }
+
   
   .fa {
     padding: 15px;
