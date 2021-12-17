@@ -34,8 +34,6 @@
     object-fit: contain;
     background-repeat: no-repeat;
   }
-
-
   
   /* .header_container{
     background-image:url(images/heroFinal.png);
@@ -56,13 +54,14 @@
     max-width: 100%; */
   }
 
-  h1{
-    text-align: center;
+  h1{    
+    padding: 20%;
   }  
 
-    .feat{
+  /* .txtHeader{
     padding: 20px;
-  }
+    padding-bottom:20px;
+  } */
 
   .featured{
       display: flex;
