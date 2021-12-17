@@ -34,8 +34,9 @@
     object-fit: contain;
   }
 
+
   
-  .header_container{
+  /* .header_container{
     background-image:url(images/heroFinal.png);
     height: 500px;
     background-position: center;
@@ -43,7 +44,7 @@
     background-size: cover;
     position: relative;
     max-width: 100%;
-    overflow: hidden;
+    overflow: hidden; */
 
 
     /* position: relative;
