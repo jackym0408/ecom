@@ -204,4 +204,41 @@
     outline: none;
   }
 
-  contact
+/* product page */
+
+.productsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.productImages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2em;
+  padding-bottom: 3rem;
+  justify-content: space-evenly;
+
+   /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; */
+}
+
+/* .productImages:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+} */
+
+productImages h5 {
+  display: block;
+  font-size: 0.83em;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
